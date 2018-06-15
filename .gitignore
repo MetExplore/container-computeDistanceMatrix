@@ -5,12 +5,6 @@ temp/
 
 data/
 
-information\.txt
+matrix\.txt
 
-mapping\.tsv
-
-pathwayEnrichment\.jar
-
-pathwayEnrichment\.tsv
-
-resultRuns\.log
+reactionsPath\.txt
